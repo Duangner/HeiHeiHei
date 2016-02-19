@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\AndroidStuday\\AndroidSenior\\ASWorkspace\\DaydayUp\\refresh-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\AndroidStuday\\AndroidSenior\\ASWorkspace\\DaydayUp\\refresh-library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\AndroidStuday\\AndroidSenior\\ZhouYi\\ZYProject\\RefreshTest\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\AndroidStuday\\AndroidSenior\\ZhouYi\\ZYProject\\RefreshTest\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\AndroidStuday\\AndroidSenior\\ASWorkspace\\DaydayUp\\refresh-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\AndroidStuday\\AndroidSenior\\ASWorkspace\\DaydayUp\\refresh-library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\AndroidStuday\\AndroidSenior\\ZhouYi\\RefreshTest\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\AndroidStuday\\AndroidSenior\\ZhouYi\\RefreshTest\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouyi\\work\\myprojects\\temp\\RefreshTest\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\Users\\zhouyi\\work\\myprojects\\temp\\RefreshTest\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\AndroidStuday\\AndroidSenior\\ZhouYi\\ZYProject\\RefreshTest\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\AndroidStuday\\AndroidSenior\\ZhouYi\\ZYProject\\RefreshTest\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\AndroidStuday\\AndroidSenior\\ZhouYi\\RefreshTest\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\AndroidStuday\\AndroidSenior\\ZhouYi\\RefreshTest\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouyi\\work\\myprojects\\temp\\RefreshTest\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\Users\\zhouyi\\work\\myprojects\\temp\\RefreshTest\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    }
+]

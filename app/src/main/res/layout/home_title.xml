@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:gravity="center_vertical"
+    android:background="@color/text_green"
+    android:layout_height="50dp"
+    tools:showIn="@layout/fragment_home">
+
+    <TextView
+        android:layout_gravity="center"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="7.5dp"
+        android:background="@color/text_green"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:text="深圳"
+        android:drawableRight="@mipmap/choice_city_arrow" />
+
+    <EditText
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:background="@drawable/shap_input_bg"
+        android:hint="输入教师名、工作室"
+        android:drawableLeft="@mipmap/search"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp" />
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_margin="10dp"
+        android:background="@color/text_green"
+        android:src="@mipmap/subscribe_img" />
+</LinearLayout>

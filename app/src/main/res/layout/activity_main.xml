@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:id="@+id/main_content_fl"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/white"/>
+    <RadioGroup
+        android:id="@+id/main_rg"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:background="@color/gray_white">
+        <RadioButton
+            android:id="@+id/main_home_rb"
+            style="@style/main_radio_btn_style"
+            android:drawableTop="@drawable/selector_main_rb_home"
+            android:text="@string/main_rb_home"
+            android:textColor="@color/color_main_rb_text" />
+        <RadioButton
+            android:id="@+id/main_channel_rb"
+            style="@style/main_radio_btn_style"
+            android:drawableTop="@drawable/selector_main_rb_channel"
+            android:text="@string/main_rb_channel"
+            android:textColor="@color/color_main_rb_text" />
+        <RadioButton
+            android:id="@+id/main_discover_rb"
+            style="@style/main_radio_btn_style"
+            android:drawableTop="@drawable/selector_main_rb_discover"
+            android:text="@string/main_rb_discover"
+            android:textColor="@color/color_main_rb_text" />
+        <RadioButton
+            android:id="@+id/main_mine_rb"
+            style="@style/main_radio_btn_style"
+            android:drawableTop="@drawable/selector_main_rb_mine"
+            android:text="@string/main_rb_mine"
+            android:textColor="@color/color_main_rb_text" />
+    </RadioGroup>
+</LinearLayout>
